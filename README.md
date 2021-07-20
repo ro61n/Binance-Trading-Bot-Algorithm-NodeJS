@@ -7,4 +7,4 @@ This algorithm is controlled by a quantitative model which gives instructions to
 
 This algorithm can manage all the binance accounts of users who sign up with the React Native interface. It would access users' accounts with their API keys and apply the same algorithm (decisions) to every account.
 
-This repository looks busy as the goal was to experiment with it in many ways on a trial and error basis instead of creating a neat and planned final product. 
+This repository looks quite busy as the goal was to experiment with it in many ways on a trial and error basis instead of creating a neat and planned final product. 
